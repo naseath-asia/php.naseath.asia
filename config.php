@@ -1,5 +1,5 @@
 <?php
-   define('DB_SERVER', 'nssgdb1.cqwb0cplfcbc.ap-southeast-1.rds.amazonaws.com:3036');
+   define('DB_SERVER', 'nssgdb1.cqwb0cplfcbc.ap-southeast-1.rds.amazonaws.com');
    define('DB_USERNAME', 'php');
    define('DB_PASSWORD', 'phppassword');
    define('DB_DATABASE', 'php');
